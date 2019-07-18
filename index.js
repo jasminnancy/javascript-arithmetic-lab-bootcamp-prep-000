@@ -1,1 +1,1 @@
-function add(1, 80) {1 + 80}
+function add() {parseInt(1 + 80)}
